@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "String": "Testing Data",
+        "Integer": "12",
+        "Float": "1.45",
+        "Date": "2017-12-12",
+        "Boolean": "true"
+    },
+    {
+        "id": 2,
+        "String": "Coba Lagi ",
+        "Integer": "99",
+        "Float": "100.405",
+        "Date": "2017-12-20",
+        "Boolean": "false"
+    },
+    {
+        "id": 3,
+        "String": "Super Sekali",
+        "Integer": "0",
+        "Float": "1.45",
+        "Date": "Kosong",
+        "Boolean": "false"
+    }
+]
