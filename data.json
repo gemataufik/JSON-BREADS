@@ -3,16 +3,16 @@
         "id": 1,
         "String": "Testing Data",
         "Integer": "12",
-        "Float": "1.45",
-        "Date": "2017-12-12",
+        "Float": "12.2",
+        "Date": "12 desember 2022",
         "Boolean": "true"
     },
     {
         "id": 2,
-        "String": "Coba Lagi ",
+        "String": "Coba Lagi",
         "Integer": "99",
-        "Float": "100.405",
-        "Date": "2017-12-20",
+        "Float": "99",
+        "Date": "20 Desember 2017",
         "Boolean": "false"
     },
     {
